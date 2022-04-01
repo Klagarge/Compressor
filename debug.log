@@ -1,0 +1,320 @@
+[0401/145423.197:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0401/145423.239:VERBOSE1:webrtc_internals.cc(121)] Could not get the download directory.
+[0401/145423.372:VERBOSE1:pref_proxy_config_tracker_impl.cc(184)] 000001D49DA28830: set chrome proxy config service to 000001D49F6A7530
+[0401/145423.385:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Argon2018' log
+[0401/145423.385:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Argon2019' log
+[0401/145423.385:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Argon2020' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Argon2021' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[0401/145423.386:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Cloudflare 'Nimbus2018' Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Cloudflare 'Nimbus2019' Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Cloudflare 'Nimbus2020' Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Cloudflare 'Nimbus2021' Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server 2
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Yeti2018 Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Yeti2019 Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Yeti2020 Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Yeti2021 Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Yeti2022 Log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[0401/145423.387:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Sirius' log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi Gen2 CT log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Comodo 'Sabre' CT log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Comodo 'Mammoth' CT log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[0401/145423.388:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[0401/145423.749:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://dzwzrbyx8yo8v.cloudfront.net/?prodId=AP-BTJ9NZXEJFSP-2
+[0401/145424.391:INFO:cpu_info.cc(46)] Available number of cores: 8
+[0401/145424.912:VERBOSE1:proxy_resolution_service.cc(1301)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0401/145425.651:VERBOSE1:v8_context_snapshot.cc(140)] A context is created from snapshot for main world
+[0401/145425.686:VERBOSE1:script_context.cc(91)] Created context:
+  extension id:           (none)
+  frame:                  000035B7E3FC1B38
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0401/145425.688:VERBOSE1:script_context.cc(91)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0401/145425.690:VERBOSE1:dispatcher.cc(364)] Num tracked contexts: 1
+[0401/145425.722:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/api/aptrinsic.js?a=AP-BTJ9NZXEJFSP-2
+[0401/145426.484:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/configuration/AP-BTJ9NZXEJFSP-2
+[0401/145426.960:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/style.css?a=AP-BTJ9NZXEJFSP-2
+[0401/145427.002:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/inapp?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&u=dzwzrbyx8yo8v.cloudfront.net%2F%3FprodId%3DAP-BTJ9NZXEJFSP-2&gcx=%7B%7D&cb=1648817667002-6512
+[0401/145427.016:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/command?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&et=sessionInitialized&rf=null&sc=https%3A%2F%2F&ho=dzwzrbyx8yo8v.cloudfront.net&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2&ha&sch=320&scw=650&pt&ep=%7B%22gco%22%3A%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22en-US%22%2C%22product_build_id%22%3A%22253353000%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_dt%22%3A%221648817660967%22%7D%7D&cb=1648817667016-6788
+[0401/145427.021:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145427.024:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/api/v1/feature/client?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&wsv=0.43.0&cb=1648817667022-1323
+[0401/145427.027:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145427.116:VERBOSE1:thread_state.cc(1565)] [state:00007FFA78C06D10] CollectGarbage: time: 3.8ms stack: NoHeapPointersOnStack marking: AtomicMarking sweeping: LazySweeping reason: IdleGC
+[0401/145427.248:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://web-sdk.aptrinsic.com/images/dialog-close.svg
+[0401/145427.430:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145427.566:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145428.954:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145429.093:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v2/kc?s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&p=AP-BTJ9NZXEJFSP-2
+[0401/145434.392:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/command?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&et=engagementDroppedClosed&rf=null&sc=https%3A%2F%2F&ho=dzwzrbyx8yo8v.cloudfront.net&pa=%2F&q=%3FprodId%3DAP-BTJ9NZXEJFSP-2&ha&sch=320&scw=650&pt&ep=%7B%22gco%22%3A%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22en-US%22%2C%22product_build_id%22%3A%22253353000%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_dt%22%3A%221648817660967%22%7D%7D&cb=1648817674391-6685
+[0401/145435.384:VERBOSE1:network_delegate.cc(32)] NetworkDelegate::NotifyBeforeURLRequest: https://esp.aptrinsic.com/rte/v1/inapp?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&u=dzwzrbyx8yo8v.cloudfront.net%2F%3FprodId%3DAP-BTJ9NZXEJFSP-2&gcx=%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22en-US%22%2C%22product_build_id%22%3A%22253353000%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_dt%22%3A%221648817660967%22%7D&cb=1648817675382-5749
+[0401/145435.524:VERBOSE1:loader_util.cc(45)] To buffer: https://esp.aptrinsic.com/rte/v1/inapp?p=AP-BTJ9NZXEJFSP-2&sv=0.43.0&v=AP-BTJ9NZXEJFSP-2-1648817666989-12132661&ai=15881930-e3ba-43ab-af88-2d631a51c1b1&vt=2&s=AP-BTJ9NZXEJFSP-2-1648816095121-94894967&u=dzwzrbyx8yo8v.cloudfront.net%2F%3FprodId%3DAP-BTJ9NZXEJFSP-2&gcx=%7B%22product_contact_preference_unsubscribed%22%3A%22False%22%2C%22product_product_language%22%3A%22en-US%22%2C%22product_build_id%22%3A%22253353000%22%2C%22product_entitlement_usage%22%3A%22User%22%2C%22product_entitlement_model%22%3A%22User%22%2C%22product_dt%22%3A%221648817660967%22%7D&cb=1648817675382-5749
+[0401/145440.483:VERBOSE1:statistics_recorder.cc(410)] Collections of all histograms
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 17.0 (flags = 0x1)
+0   ... 
+17  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+20  ... 
+
+Histogram: GPU.D3D12FeatureLevel recorded 1 samples, mean = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 51.0 (flags = 0x1)
+0   ... 
+50  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+61  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+4  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.Sandbox.InitializedSuccessfully recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.SupportsDX12 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.SupportsVulkan recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.VulkanExtSupport.VK_KHR_external_memory_win32 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.VulkanExtSupport.VK_KHR_external_semaphore_win32 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.VulkanExtSupport.VK_KHR_win32_keyed_mutex recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.VulkanVersion recorded 1 samples, mean = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: LibraryLoader.LoadNativeLibraryWindows recorded 5 samples, mean = 0.6 (flags = 0x1)
+0  ------------------------------------------------O                         (2 = 40.0%)
+1  ------------------------------------------------------------------------O (3 = 60.0%) {40.0%}
+2  ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Windows.CreateThreadTime recorded 7 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (7 = 100.0%)
+1  ... 
+
+
+[0401/145442.132:VERBOSE1:thread_state.cc(1565)] [state:00007FFA78C06D10] CollectGarbage: time: 7.1ms stack: HeapPointersOnStack marking: AtomicMarking sweeping: EagerSweeping reason: ForcedGC
+[0401/145442.135:VERBOSE1:thread_state.cc(1565)] [state:00007FFA78C06D10] CollectGarbage: time: 1.9ms stack: NoHeapPointersOnStack marking: AtomicMarking sweeping: LazySweeping reason: PreciseGC
+[0401/145442.768:VERBOSE1:thread_state.cc(1565)] [state:00007FFA78C06D10] CollectGarbage: time: 1.3ms stack: HeapPointersOnStack marking: AtomicMarking sweeping: EagerSweeping reason: ForcedGC
+[0401/145442.769:VERBOSE1:thread_state.cc(1565)] [state:00007FFA78C06D10] CollectGarbage: time: 1.1ms stack: NoHeapPointersOnStack marking: AtomicMarking sweeping: LazySweeping reason: PreciseGC
+[0401/145452.613:VERBOSE1:statistics_recorder.cc(410)] Collections of all histograms
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 37.0 (flags = 0x1)
+0   ... 
+34  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+40  ... 
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 126.0 (flags = 0x1)
+0    ... 
+113  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+139  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+4  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.Sandbox.InitializedSuccessfully recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: LibraryLoader.LoadNativeLibraryWindows recorded 3 samples, mean = 0.3 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 66.7%)
+1  ------------------------------------O                                     (1 = 33.3%) {66.7%}
+2  ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.DetachDuration.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.HeartbeatLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.BackgroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.BackgroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.ForegroundBlockingPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.ContentChild.ForegroundPool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.BackgroundTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserBlockingTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatencyMicroseconds.ContentChild.UserVisibleTaskPriority_MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Windows.CreateThreadTime recorded 7 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (7 = 100.0%)
+1  ... 
+
+
